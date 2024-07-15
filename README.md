@@ -44,21 +44,23 @@
 
 </p>
 
+</br>
+
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruudayanga&show_icons=true&theme=dark&locale=en&layout=compact" alt="isuruudayanga" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HobyProjects&show_icons=true&theme=dark&locale=en&layout=compact" alt="HobyProjects" />
 </p>
 
 </br>
 
 <p>
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuruudayanga&show_icons=true&theme=dark&locale=en" alt="isuruudayanga"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HobyProjects&show_icons=true&theme=dark&locale=en" alt="HobyProjects"/>
 </p>
 
 </br>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuruudayanga&theme=dark" alt="isuruudayanga"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HobyProjects&theme=dark" alt="HobyProjects"/>
 </p>
 
 
