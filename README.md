@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, @HobyProjects </h1>
 <h3 align="center">I'm passionate about game development and game engines.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruudayanga&label=Profile%20views&color=0e75b6&style=flat" alt="isuruudayanga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HobyProjects&label=Profile%20views&color=0e75b6&style=flat" alt="HobyProjects" /> </p>
 
 
 - 🌱 I’m currently learning **OpenGL, Vulkan, DirectX**
