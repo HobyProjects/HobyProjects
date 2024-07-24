@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobyprojects&label=views&color=00ff1e&style=flat" alt="hobyprojects" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hobyprojects" alt="hobyprojects" /></a> </p>
-
 - 🔭 I’m currently working on [trimana_engine](https://github.com/HobyProjects/trimana_engine)
 
 - 🌱 I’m currently learning **OpenGL, Vulkan, DirectX**
