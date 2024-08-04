@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HobyProjects</h1>
+<h1 align="center">Hi 👋, I'm Hoby</h1>
 <h3 align="center">Game development enthusiast 🕹️ | Skilled in C/C++ programming | Delving into game engines | Familiar with OpenGL, Vulkan, and DirectX APIs #IndieDev #CPlusPlus #DirectX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobyprojects&label=views&color=00ff1e&style=flat" alt="hobyprojects" /> </p>
