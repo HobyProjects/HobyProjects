@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobyprojects&label=views&color=00ff1e&style=flat" alt="hobyprojects" /> </p>
 
-- 🔭 I’m currently working on [trimana_engine](https://github.com/HobyProjects/trimana_engine)
-
 - 🌱 I’m currently learning **OpenGL, Vulkan, DirectX**
 
 - 💬 Ask me about **C/C++ , Game Development, Game Engines, CMake(cross-platform-build)**
-
-- 📫 How to reach me **hobbyprojects.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am very lazy**
 
